@@ -1,1 +1,1 @@
-# caderneta-eureka-server
+# caderneta-eureka-server ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/sironAzevedo/caderneta-eureka-server/heroku-caderneta-eureka)
